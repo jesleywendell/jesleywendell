@@ -8,7 +8,7 @@
 
 🎓 Software Engineering Student  
 💻 Software Engineering Intern  
-📍 Teresina, Piauí - Brazil  
+📍 Teresina, Piauí - Brasil  
 🧠 Currently studying: Quantum Computing, C#, C++, AI agents    
 📫 Contact: [LinkedIn](https://www.linkedin.com/in/jesley-wendell-leite-soares-480a84292/) | `jesleywendell@gmail.com`
 
