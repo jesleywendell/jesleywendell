@@ -33,14 +33,12 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jesleywendell&show_icons=true&theme=gruvbox" alt="Jesley's GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jesleywendell&show_icons=true&theme=gruvbox" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesleywendell&layout=compact&theme=gruvbox" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jesleywendell&layout=compact&theme=gruvbox" />
 </p>
-
----
 
 ### About me
 
@@ -52,6 +50,6 @@
 
 ---
 
-### 🧭 Let's connect!
+### Let's connect!
 
 If you have a cool project, collaboration idea, or job opportunity, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/jesley-wendell-leite-soares-480a84292/) or by email!
