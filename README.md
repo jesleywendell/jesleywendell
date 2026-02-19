@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ Main Technologies
+### Main Technologies
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -30,7 +30,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jesleywendell&show_icons=true&theme=gruvbox" alt="Jesley's GitHub Stats" />
@@ -42,13 +42,13 @@
 
 ---
 
-### ⚡ About me
+### About me
 
-- 🎯 I'm driven by a passion for designing intelligent solutions that bridge cutting-edge technology and real-world needs.  
-- 🧩 I enjoy architecting scalable software and working with AI agents to automate and optimize processes.  
-- 📈 I'm deeply interested in project management and leadership — bringing people together, aligning goals, and turning ideas into impactful results.  
-- 🧠 I'm currently expanding my skills in quantum computing, systems programming, and autonomous AI systems.  
-- 🤝 I believe in continuous learning, knowledge sharing, and contributing to projects that make a difference.
+-  I'm driven by a passion for designing intelligent solutions that bridge cutting-edge technology and real-world needs.  
+-  I enjoy architecting scalable software and working with AI agents to automate and optimize processes.  
+-  I'm deeply interested in project management and leadership — bringing people together, aligning goals, and turning ideas into impactful results.  
+-  I'm currently expanding my skills in quantum computing, systems programming, and autonomous AI systems.  
+-  I believe in continuous learning, knowledge sharing, and contributing to projects that make a difference.
 
 ---
 
