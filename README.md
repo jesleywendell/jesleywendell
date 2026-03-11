@@ -32,13 +32,23 @@
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jesleywendell&show_icons=true&theme=gruvbox" />
-</p>
+<h2 align="center">📊 GitHub Stats</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuigohC0D3&theme=blueberry" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuigohC0D3&theme=blueberry" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuigohC0D3&theme=blueberry&utcOffset=8" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jesleywendell&layout=compact&theme=gruvbox" />
-</p>
 
 ### About me
 
